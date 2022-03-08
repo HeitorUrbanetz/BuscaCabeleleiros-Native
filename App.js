@@ -14,5 +14,3 @@ export default () => {
   );
 }
 
-// https://www.youtube.com/watch?v=wdvxNgGV0sU
-// 3:26:59
